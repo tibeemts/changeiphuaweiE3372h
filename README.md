@@ -137,4 +137,4 @@ MIT License - Use at your own risk
 **USE AT YOUR OWN RISK**. This script modifies critical network settings on your device. The author is not responsible for any damage, data loss, or connectivity issues that may occur. Always ensure you have physical access to your device for recovery purposes.
 
 ## Credits
-Created by [Your Name] - Tested on Huawei E3372h-607 in Laos 🇱🇦
+Created by Tibee - Tested on Huawei E3372h-607 in Laos 🇱🇦
